@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @alexfum75
 - 👀 I’m interested in astronomy, Data Science, Devops and Agile methodology
 
-find me here: [articolidiastronomia.com]
+find me here: [www.articolidiastronomia.com]
 (articolidiastronomia.com)
 
 <!---
